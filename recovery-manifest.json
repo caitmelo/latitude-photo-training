@@ -1,0 +1,16 @@
+{
+  "status": "Download blocked; no image bytes backed up",
+  "located_files": 51,
+  "backed_up_images": 0,
+  "groups": [
+    {
+      "style": "Editorial",
+      "located_images": 27
+    },
+    {
+      "style": "Modern Bright",
+      "located_images": 24
+    }
+  ],
+  "note": "Private source IDs and access links omitted. Before/after pairs and trained weights not recovered."
+}
